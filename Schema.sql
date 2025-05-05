@@ -1,0 +1,2 @@
+CREATE SCHEMA gold;
+CREATE SCHEMA silver;
